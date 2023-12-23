@@ -6,11 +6,10 @@
   
 [<img src="https://user-images.githubusercontent.com/115516820/197200923-2a87158b-26dc-4ede-a273-0dc4425a5154.png" width="35" />](https://instagram.com/mdinalayubi)
 [<img src="img/garudaku.png" width="35" />](https://garudaku.com/profile/mdinalayubi)
-[<img src="https://user-images.githubusercontent.com/115516820/197201557-8354bde4-4635-4cbf-947a-dd2f863a6049.png" width="35" />](https://twitter.com/mdinalayubi21) 
+[<img src="img/logowhite.png" width="35" />](https://twitter.com/mdinalayubi21) 
 [<img src="https://user-images.githubusercontent.com/115516820/197199448-6efa4c9b-9551-4f69-b9f7-7ff4a57943c8.png" width="35" />](https://web.facebook.com/muhammad.dinalayubi?_rdc=1&_rdr) 
 [<img src="img/logo.png" width="35" />](https://wa.me/6282317751464) 
 [<img src="img/Thread.png" width="35" />](https://www.threads.net/@mdinalayubi)
-[<img src="img/logowhite.png" width="35" />]( https://x.com/mdinalayubi21?t=FQvlxUrHKij_4i9Sv64VTA&s=08 )
 
 <!--
 **mdinalayubi/mdinalayubi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
