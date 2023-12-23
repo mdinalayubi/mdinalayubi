@@ -10,6 +10,7 @@
 [<img src="https://user-images.githubusercontent.com/115516820/197199448-6efa4c9b-9551-4f69-b9f7-7ff4a57943c8.png" width="35" />](https://web.facebook.com/muhammad.dinalayubi?_rdc=1&_rdr) 
 [<img src="img/logo.png" width="35" />](https://wa.me/6282317751464) 
 [<img src="img/Thread.png" width="35" />](https://www.threads.net/@mdinalayubi)
+[<img src="img/logowhite.png" width="35" />]( https://x.com/mdinalayubi21?t=FQvlxUrHKij_4i9Sv64VTA&s=08 )
 
 <!--
 **mdinalayubi/mdinalayubi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
