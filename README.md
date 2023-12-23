@@ -1,1 +1,26 @@
-# MDINALAYUBI
+<p align = "center"
+
+   **SOCIAL MEDIA**
+
+<p align="center"
+  
+[<img src="https://user-images.githubusercontent.com/115516820/197200923-2a87158b-26dc-4ede-a273-0dc4425a5154.png" width="35" />](https://instagram.com/mdinalayubi)
+[<img src="img/garudaku.png" width="35" />](https://garudaku.com/profile/mdinalayubi)
+[<img src="https://user-images.githubusercontent.com/115516820/197201557-8354bde4-4635-4cbf-947a-dd2f863a6049.png" width="35" />](https://twitter.com/mdinalayubi21) 
+[<img src="https://user-images.githubusercontent.com/115516820/197201557-8354bde4-4635-4cbf-947a-dd2f863a6049.png" width="35" />](https://web.facebook.com/muhammad.dinalayubi?_rdc=1&_rdr) 
+[<img src="img/wa.png" width="35" />](https://wa.me/6282317751464) 
+
+<!--
+**mdinalayubi/mdinalayubi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
